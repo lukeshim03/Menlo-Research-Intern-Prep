@@ -1,0 +1,11 @@
+{
+  "name": "kpop-asimov-dance",
+  "version": "1.0.0",
+  "description": "Make the Asimov humanoid robot dance to K-pop videos in MuJoCo",
+  "scripts": {
+    "dev": "node run.js",
+    "sim": "node run.js --mode sim",
+    "rebuild": "node run.js --force"
+  },
+  "license": "MIT"
+}

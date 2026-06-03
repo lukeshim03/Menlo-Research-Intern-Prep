@@ -1,0 +1,11 @@
+{
+  "name": "menlo-research-intern-prep",
+  "version": "1.0.0",
+  "description": "Menlo Research intern prep — K-pop Asimov dance retargeting",
+  "scripts": {
+    "dev": "node kpop-asimov/run.js",
+    "sim": "node kpop-asimov/run.js --mode sim",
+    "rebuild": "node kpop-asimov/run.js --force"
+  },
+  "license": "MIT"
+}
