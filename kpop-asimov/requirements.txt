@@ -1,0 +1,7 @@
+mediapipe>=0.10
+mujoco>=3.0
+opencv-python
+scipy
+numpy
+yt-dlp
+tqdm
